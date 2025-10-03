@@ -1,4 +1,4 @@
-package com.petroline.aprendendospring.infrastructure.exceptions;
+package com.petroline.usuario.infrastructure.exceptions;
 
 public class ConflictException extends RuntimeException{
 
